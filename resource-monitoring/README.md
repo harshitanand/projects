@@ -34,4 +34,7 @@ The tool that you are going to use is netdata. Lets first start it up by install
 - It's done now open your browser and type `localhost:19999` [**magic happens here**](localhost:19999/) See something like this
 
 ![netdata](https://cloud.githubusercontent.com/assets/2662304/14092712/93b039ea-f551-11e5-822c-beadbf2b2a2e.gif)
-projects/resource-monitoring/images/git-preview.png
+
+## NOTE
+
+Need to read more about [`netdata tool`](https://github.com/firehol/netdata). In case if you want to do netdata configurations [`** Go Here **`](https://github.com/firehol/netdata/wiki/Installation)
